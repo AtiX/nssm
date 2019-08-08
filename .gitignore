@@ -1,0 +1,12 @@
+# Temporary build files and output
+/out
+/tmp
+messages.h
+messages.rc
+MSG*.bin
+version.h
+
+# Auto-generated Visual Studio files
+*.vcxproj.user
+*.vcxproj.filters
+/.vs
