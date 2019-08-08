@@ -1,6 +1,6 @@
 # NSSM: Windows Service Wrapper
 
-Version 2.24, 2014-08-31
+Version 2.24-107, 2019-08-08
 
 This is a fork of the original [nssm](http://nssm.cc/) with a name that is less problematic in a corporate environment.
 
